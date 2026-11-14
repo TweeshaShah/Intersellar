@@ -33,7 +33,7 @@ const SHIP_START_Y = 400;
 function preload() {
     this.load.image('ship', 'SHIP.png');
     this.load.image('background', 'Background.png');
-    this.load.image('meteor', 'meteor.png');
+    this.load.image('meteor', 'Meteor.png');
 }
 
 // =====================================
